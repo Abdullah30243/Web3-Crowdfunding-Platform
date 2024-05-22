@@ -1,7 +1,29 @@
-# Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
-![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
+ 
+<b>Crowdfunding Platform
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+<b>Overview
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+Build a stunning crowdfunding platform connected to the blockchain, with Metamask pairing, smart contract interaction, and Ethereum transactions. Learn to create, view, and donate to campaigns directly through the blockchain.
+
+<b>Features
+
+- Blockchain-powered crowdfunding platform
+- Metamask pairing for secure transactions
+- Interaction with smart contracts for campaign management
+- Sending Ethereum through the blockchain network
+- Writing Solidity code for smart contract development
+- Create, view, and donate to crowdfunding campaigns
+
+<b>Getting Started
+
+1. Clone the repository and install dependencies with npm install
+2. Set up your development environment with Metamask and Goerli Faucet
+3. Follow the tutorial instructions to build and deploy your own crowdfunding platform
+
+<b>License
+
+This project is licensed under the MIT License. See LICENSE for details.
+
+Acknowledgments
+
+Special thanks to Thirdweb, JS Mastery Pro, and the Web3 community for their support and resources.
